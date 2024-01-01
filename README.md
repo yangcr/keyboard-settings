@@ -24,3 +24,6 @@ compiled file for keyboard
 
 ### Layer 15 (Keyboard config layer)
 ![Layer 15](./assets/layer-15.png)
+
+## Future plans
+add spanish tilde and ñ keys
